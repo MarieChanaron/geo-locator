@@ -4,7 +4,7 @@ I created a custom React hook using the window.navigator.geolocation object and 
 This hook returns the current location of the user.
 
 ## Link to the Project
-mariechanaron.github.io/geo-locator/
+[mariechanaron.github.io/geo-locator/](mariechanaron.github.io/geo-locator/)
 
 ## Features
 - Indicate the hemisphere
