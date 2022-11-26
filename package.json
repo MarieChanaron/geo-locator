@@ -1,6 +1,6 @@
 {
   "homepage": "http://mariechanaron.github.io/geo-locator",
-  "name": "geolocation",
+  "name": "geo-locator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
