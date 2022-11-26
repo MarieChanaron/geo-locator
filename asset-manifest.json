@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geo-locator/static/css/main.909d7fc3.css",
+    "main.js": "/geo-locator/static/js/main.1c1054da.js",
+    "index.html": "/geo-locator/index.html",
+    "main.909d7fc3.css.map": "/geo-locator/static/css/main.909d7fc3.css.map",
+    "main.1c1054da.js.map": "/geo-locator/static/js/main.1c1054da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.909d7fc3.css",
+    "static/js/main.1c1054da.js"
+  ]
+}
